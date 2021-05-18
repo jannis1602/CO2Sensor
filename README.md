@@ -1,4 +1,7 @@
 # CO2Sensor
+
+##work in progress
+
 A program for the esp8266 of the sensor and another for collecting and evaluating the measured values
 
 The Sensorbox can be found here: https://www.thingiverse.com/jannis1602
