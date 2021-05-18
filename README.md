@@ -1,6 +1,6 @@
 # CO2Sensor
 
-##work in progress
+# WORK IN PROGRESS
 
 A program for the esp8266 of the sensor and another for collecting and evaluating the measured values
 
