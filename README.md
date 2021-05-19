@@ -1,4 +1,4 @@
-# CO2Sensor WORK IN PROGRESS
+# WORK IN PROGRESS
 
 # CO2 Sensor program
 You need to set the wifi ssid and password in the program.
