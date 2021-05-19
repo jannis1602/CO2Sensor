@@ -16,4 +16,4 @@ The Sensorbox can be found here: https://www.thingiverse.com/jannis1602
 # Program for collecting and evaluating values
 The java program collects the data of all confugured sensors in the same network and save it all two minutes. The collected values are then displayed graphically.
 In the config.txt file you need to list the ESP8266-IPs and their names. ``192.168.178.100#room1`` (one sensor per line)
-To load old data just run the program with the date as parameter: ``CO2-Sensor-Server.jar 2021-05-19``
+#. To load old data just run the program with the date as parameter: ``CO2-Sensor-Server.jar 2021-05-19``
