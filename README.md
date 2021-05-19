@@ -15,3 +15,4 @@ The Sensorbox can be found here: https://www.thingiverse.com/jannis1602
 
 # Program for collecting and evaluating values
 The java program collects the data of all confugured sensors in the same network x times per minute. The collected values are then displayed graphically.
+To load old data just run the program with the date as parameter: "CO2-Sensor-Server.jar 2021-02-15"
