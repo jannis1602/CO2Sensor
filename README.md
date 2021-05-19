@@ -1,7 +1,7 @@
 # WORK IN PROGRESS
 
 # CO2 Sensor program
-You need to set the wifi ssid and password in the program. The ESP8266 will measure the CO2 concentration and the temperature as well as the humidity once per second. This data can then be called up via the sensor's website. All data is also shown on the display.
+You need to set the wifi ssid and password in the program, but part of the program also works without it. The ESP8266 will measure the CO2 concentration and the temperature as well as the humidity once per second. This data can then be called up via the sensor's website. All data is also shown on the display.
 
 
 # The Sensorbox
