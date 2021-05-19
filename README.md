@@ -11,7 +11,7 @@ The Sensorbox can be found here: https://www.thingiverse.com/jannis1602
 <img src="https://user-images.githubusercontent.com/63098334/118721090-b503e280-b82a-11eb-996c-d8ba4c107b9e.jpg" width="400">
 
 
-# Program for collecting and evaluating values
+# Program for collecting and evaluating data
 The java program collects the data of all confugured sensors in the same network and save it all two minutes. The collected values are then displayed graphically.
 In the config.txt file you need to list the ESP8266-IPs and their names. ``192.168.178.100#room1`` (one sensor per line)
 
